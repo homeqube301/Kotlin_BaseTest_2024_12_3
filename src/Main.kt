@@ -11,5 +11,4 @@ fun buildAquarium() {
     val aquarium6 = Aquarium(length = 25, width = 25, height = 40)
     aquarium6.printSize()
     aquarium6.printSize()
-    aquarium6.printSize()
 }
